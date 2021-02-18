@@ -82,3 +82,4 @@ webencodings==0.5.1
 widgetsnbextension==3.4.2
 wrapt==1.11.2
 xlrd==1.2.0
+voila==0.2.6

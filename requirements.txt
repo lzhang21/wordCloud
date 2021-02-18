@@ -61,7 +61,6 @@ pylint==2.4.4
 pyparsing==2.2.2
 pyshp==1.2.12
 PySocks==1.6.8
-python-dateutil==2.7.3
 pywin32==300
 pywin32-ctypes==0.2.0
 pywinpty==0.5.4

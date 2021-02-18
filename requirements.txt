@@ -66,7 +66,6 @@ pytz==2018.5
 pywin32==300
 pywin32-ctypes==0.2.0
 pywinpty==0.5.4
-pyzmq==17.1.2
 regex==2020.2.20
 requests==2.20.0
 requests-oauthlib==1.0.0
